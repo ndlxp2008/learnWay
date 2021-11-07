@@ -1,4 +1,4 @@
 
-# Haikus for Codespaces
+#  学习之路
+随时随地的学习，并记录过程中的code
 
-This is a quick node project template for demoing Codespaces. It is based off of the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
